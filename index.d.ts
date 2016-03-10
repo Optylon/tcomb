@@ -1,4 +1,4 @@
-declare module Tcomb {
+declare module tcomb {
 
   type Predicate<T> = (x: T) => boolean;
   type TypeGuardPredicate<T> = (x: any) => x is T;
@@ -245,4 +245,4 @@ declare module Tcomb {
   export var update: Update<Object>;
 }
 
-export = Tcomb
+export = tcomb
