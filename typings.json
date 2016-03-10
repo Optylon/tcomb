@@ -1,0 +1,7 @@
+{
+  "name": "tcomb",
+  "main": "index.d.ts",
+  "author": "Giulio Canti",
+  "description": "Type definitions for tcomb",
+  "dependencies": {}
+}
